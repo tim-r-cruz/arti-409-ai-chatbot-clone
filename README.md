@@ -62,7 +62,7 @@ show up on GitHub.
 
 **Students who completed the setup:**
 
-- _Add your name here!_
+- Tim Cruz
 
 ---
 
